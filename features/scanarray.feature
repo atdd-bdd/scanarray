@@ -10,4 +10,4 @@ Scenario: Count Number of Non-Zero Sequences
 | 1,0                 | 1     | One non-zero sequence            |
 | 0,1,1               | 1     | Two non-zero values in sequence  |
 | 0,2,3               | 1     | Two non-zero values in seq       | 
-# | 0,2,3               | 2     | Should fail - incorrect answer   | 
+| 0,2,3,0,1           | 2     | Two non-zero sequences           | 
